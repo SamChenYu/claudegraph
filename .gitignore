@@ -1,0 +1,12 @@
+# CMake build output
+/build/
+build*/
+
+# Compiled objects / binaries
+*.o
+*.obj
+/convograph
+
+# Editor / OS cruft
+.DS_Store
+compile_commands.json
